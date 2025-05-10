@@ -1,0 +1,27 @@
+Very important Question: 
+
+Write a method that is designed to take 2 int
+parameters and return and int parameter.
+The method will be named mulTwoNumbers and 
+it will simply multiply the numbers and return
+the result of this multiplication.
+
+When you have done this, test the method in 
+your main method by making a call to the 
+method passing actual parameters 5 and 8
+Then print out the returned result to the screen.
+
+You could surround your call to the method
+with print statements to illustrate the
+flow of program execution.
+
+Write out an English description of what is 
+happening when the method is called.
+Use the terms from yesterday.
+
+Run time stack, stack frame, actual and 
+formal parameters, local variables (if they exist)
+information transfer,
+return of the result and the destruction of 
+the stack frame, flow of execution of the 
+program.

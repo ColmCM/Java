@@ -1,0 +1,29 @@
+Write the following program.
+(This follows the same pattern as the 1D array example
+from yesterday)
+
+1) In the main method declare a 2D array as follows:
+
+int[][] myValues= { {23,38,14,7},
+                    {-3, 0,14,4},
+                    { 9, 13,0,3}, 
+                  };
+
+2) In your main method and write a loop
+to print out the current contents of the (myValues) 
+array to the screen.
+
+3) Write a separate method, which does not return any
+value and takes a single 2D array reference formal 
+parameter. 
+In the body of this method you will cycle
+through each of the individual memory slots
+of the 2D array and assign it the value 42;
+
+4)In your main method write code that makes
+a call to this newly defined method and pass
+to it a previously initialised array (myValues). 
+
+5) In your main method and write a loop
+to print out the changed contents of the (myValues) array 
+to the screen.
